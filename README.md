@@ -3,6 +3,8 @@ Region Proposal Network implementation for object detection using Keras and Tens
 
 This repository was heavily based on the Mask-RCNN repository (https://github.com/matterport/Mask_RCNN).
 
+# a two-stage approach for pancreatitis segmentation:localization and segmentation.  Using RPN to localize the pancreatitis region on the feature map produced by 2D FCN-8 and send it to the U-Net.
+
 # Getting Started
 ## Dependencies
 This was developed using Windows 10 Pro with the following dependencies:
